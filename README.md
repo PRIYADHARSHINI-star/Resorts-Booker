@@ -56,7 +56,9 @@ BACKEND SCREENSHOTS:
 ![SQL_BOOKING](https://user-images.githubusercontent.com/72924709/153712695-c93fbb8f-a2d8-4a8b-8e2e-08ce245f986e.PNG)
 
 4. OCCUPIED ROOMS
+
 ![SQL_OCCUPIED ROOMS](https://user-images.githubusercontent.com/72924709/153712697-656f4d75-fcc3-4b36-8912-a0b32fbd7188.PNG)
 
 5. AVAILABLE ROOMS
+
 ![SQL_AVAILABLE](https://user-images.githubusercontent.com/72924709/153712699-45ef0877-c133-4efd-a796-dae95edd3109.PNG)
